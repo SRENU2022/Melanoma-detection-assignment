@@ -51,4 +51,4 @@ The data set contains the following diseases:
   - Write your findings after the model fit, see if the issues are resolved or not?
   
 
-The model training may take time to train and hence you can use Google colab.
+The model training takes time to train and hence Google colab is used.
